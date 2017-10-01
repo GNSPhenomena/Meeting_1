@@ -4,7 +4,7 @@
 - About Arduino
 
 ### 2. Project to Do
-- Blink LED project
+- Blink LED Project
   - Build a circuit with 1 LED
   - Make the LED blink every second
 
