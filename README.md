@@ -1,8 +1,9 @@
 # Meeting_1
+
 1. Introduction to Arduino
 - About Arduino
 
-2. Project for today
+2. Project to Do
 - Blink LED project
   - Build a circuit with 1 LED
   - Make the LED blink every second
