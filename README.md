@@ -4,7 +4,7 @@
 2. Project for today
 - Blink LED project
 3. Goals
-- Learn about different Arduino I/O (input/output) 
+- Learn about different Arduino I/O (input/output), especially the difference between digital I/O and analog I/O
 - Learn to use a breadboard
 - Learn to build a LED circuit with a breadboard and Arduino Uno
 - Learn about the Arduino IDE (Integrated Development Environment)
