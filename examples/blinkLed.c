@@ -1,4 +1,5 @@
 //---------------- Define Vars ----------------
+
 //---------------- Initialization ----------------
 void setup() {
 	pinMode(0,OUTPUT); // Initialize pin 0
