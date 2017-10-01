@@ -12,4 +12,4 @@
 - Learn to use a breadboard
 - Learn to build a circuit with 1 LED on a breadboard, and connect it to a Arduino Uno
 - Learn about the Arduino IDE (Integrated Development Environment)
-- Learn to use programs to blink the LED
+- Learn to write a program to blink the LED
